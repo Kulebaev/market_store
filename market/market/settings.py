@@ -59,7 +59,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'market.urls'
+ROOT_URLCONF = 'market_order.urls'
 
 TEMPLATES = [
     {
